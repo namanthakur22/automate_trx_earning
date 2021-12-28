@@ -19,5 +19,5 @@ Type below command in terminal and press enter
 ```
 node .\app.js
 ```
-This is a working script for trxking.site you can modify the script you other website accordingly
+This is a working script for trxking.site you can modify the script for other website accordingly
 
